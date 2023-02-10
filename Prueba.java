@@ -5,12 +5,10 @@ public class Prueba {
 
     private int num1;
     private int num2;
-    private int num3;
 
-    public Prueba(int num1, int num2, int num3){
+    public Prueba(int num1, int num2){
         this.num1=num1;
         this.num2=num2;
-        this.num3=num3;
     }
 
     public Prueba(){
