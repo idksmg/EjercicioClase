@@ -3,12 +3,12 @@ import java.util.*;
 
 public class Prueba {
 
-    private int num1;
-    private int num2;
+    private int numero1;
+    private int numero2;
 
     public Prueba(int num1, int num2){
-        this.num1=num1;
-        this.num2=num2;
+        this.numero1=numero1;
+        this.numero2=numero2;
     }
 
     public Prueba(){
